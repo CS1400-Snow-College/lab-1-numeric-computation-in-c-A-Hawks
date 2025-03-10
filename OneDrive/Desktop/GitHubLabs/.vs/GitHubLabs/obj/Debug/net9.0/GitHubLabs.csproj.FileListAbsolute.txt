@@ -1,0 +1,14 @@
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\bin\Debug\net9.0\GitHubLabs.exe
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\bin\Debug\net9.0\GitHubLabs.deps.json
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\bin\Debug\net9.0\GitHubLabs.runtimeconfig.json
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\bin\Debug\net9.0\GitHubLabs.dll
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\bin\Debug\net9.0\GitHubLabs.pdb
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.AssemblyInfoInputs.cache
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.AssemblyInfo.cs
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.csproj.CoreCompileInputs.cache
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.dll
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\refint\GitHubLabs.dll
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.pdb
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.genruntimeconfig.cache
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\ref\GitHubLabs.dll
