@@ -1,6 +1,5 @@
 # Lab1
 
-  1.  First complete the Worksheet for this Lab.
   2.  Accept the GitHub Classroom Assignment for the Lab (Links to an external site.).
   3.  Navigate to your code directory (e.g.: cd my-cs1405-code-dir).
   4.  Run **git clone {yourUrl}** to make a local copy of your repository. (Reminder, replace {yourUrl} including the brackets with your actual repo url.)
