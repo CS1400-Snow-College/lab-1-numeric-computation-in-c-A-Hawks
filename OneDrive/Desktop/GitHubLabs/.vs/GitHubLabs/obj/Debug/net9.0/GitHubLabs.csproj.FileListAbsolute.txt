@@ -12,3 +12,4 @@ C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\refin
 C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.pdb
 C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.genruntimeconfig.cache
 C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\ref\GitHubLabs.dll
+C:\Users\14252\OneDrive\Desktop\GitHubLabs\.vs\GitHubLabs\obj\Debug\net9.0\GitHubLabs.sourcelink.json
